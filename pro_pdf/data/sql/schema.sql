@@ -1,0 +1,11 @@
+CREATE TABLE ingredientes (id INT AUTO_INCREMENT, name VARCHAR(30), owner_prod_id VARCHAR(30), state CHAR(1) DEFAULT 'F', PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE mesa (id INT AUTO_INCREMENT, label VARCHAR(40), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE pedidos (id INT AUTO_INCREMENT, estado TINYINT, precio INT, fec_reg DATETIME NOT NULL, fec_can DATETIME DEFAULT '0000-00-00 00:00:00' NOT NULL, mesa_id INT, INDEX mesa_id_idx (mesa_id), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE pedidos_detalle (id INT AUTO_INCREMENT, pedido_id INT, item VARCHAR(40), INDEX pedido_id_idx (pedido_id), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE producto (id INT AUTO_INCREMENT, name VARCHAR(30), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE sub_producto (id INT AUTO_INCREMENT, name VARCHAR(40), producto_id INT, precio DECIMAL(12, 2), fec_updated DATETIME NOT NULL, state TINYINT DEFAULT '0', INDEX producto_id_idx (producto_id), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE sub_producto_ingredientes (sub_producto_id INT, ingredientes_id INT, PRIMARY KEY(sub_producto_id, ingredientes_id)) ENGINE = INNODB;
+CREATE TABLE usuario (id INT AUTO_INCREMENT, username VARCHAR(40), password VARCHAR(60), PRIMARY KEY(id)) ENGINE = INNODB;
+ALTER TABLE pedidos ADD CONSTRAINT pedidos_mesa_id_mesa_id FOREIGN KEY (mesa_id) REFERENCES mesa(id);
+ALTER TABLE pedidos_detalle ADD CONSTRAINT pedidos_detalle_pedido_id_pedidos_id FOREIGN KEY (pedido_id) REFERENCES pedidos(id);
+ALTER TABLE sub_producto ADD CONSTRAINT sub_producto_producto_id_producto_id FOREIGN KEY (producto_id) REFERENCES producto(id);

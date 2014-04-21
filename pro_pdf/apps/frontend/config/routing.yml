@@ -1,0 +1,371 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: crud, action: index }
+modal_view:
+  url:  /modal
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: openModal
+  requirements: { sf_method: post }
+modal_product:
+  url: /modal_product
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: openModalProduct
+  requirements: { sf_method: post }
+   
+prod_edit_put:
+  url:  /edit_prod_put
+  class: sfRequestRoute
+  param:  { module: crud, action : editProd }
+droid_login:
+  url:  /android_login
+  class: sfRequestRoute
+  params:
+    module: android
+    action: login
+  requirements: { sf_method: post }
+droid_login_get:
+ url: /android_login_get
+ class: sfRequestRoute
+ params:
+   module: android
+   action: login
+ requirements: { sf_method: get }
+droid_getStats:
+  url:  /dame_ultimos
+  class: sfRequestRoute
+  params:
+    module: android
+    action:  lastTenPedidos
+  requirements: { sf_method: get }
+droid_postStats:
+  url:  /dame_ultimos
+  class: sfRequestRoute
+  params:
+    module: android
+    action:  lastTenPedidos
+  requirements: { sf_method: post }
+droid_obtener_pedidos_actuales:
+  url:  /obtener_pedidos_act
+  class: sfRequestRoute
+  params:
+    module: android
+    action: obtenerPedidosActuales
+  requirements: { sf_method: post }
+cancel_factura:
+  url: /cancel_factura
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: cancelFactura
+save_factura:
+  url : /save_factura
+  class: sfRequestRoute
+  params:
+     module: crud
+     action: saveFactura
+  requirements: { sf_method: post }
+droid_obtener_pedidos_actuales_get:
+  url:  /obtener_pedidos_act
+  class: sfRequestRoute
+  params:
+    module: android
+    action: obtenerPedidosActuales
+  requirements: { sf_method: get }
+droid_productos:
+  url:  /android_dame_productos
+  class: sfRequestRoute
+  params:
+    module: android
+    action: dameProductos
+  requirements: { sf_method: [get,post] }
+salir:
+  url: /salir_user
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: salirUser
+access_login:
+  url: /another_login
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: anotherLogin
+  requirements: { sf_method: post }
+
+label_create:
+  url:          /android_dame_productos
+  class:        sfRequestRoute
+  param:        { module: android, action: dameProductos }
+  requirements: { sf_method: post }
+droid_cancel_notificar:
+  url:  /android_notificar
+  class: sfRequestRoute
+  params:
+    module: android
+    action: pedidosNotificacion
+  requirements: { sf_method: post }
+droid_cancel_notificar_get:
+  url:  /android_notificar_get
+  class: sfRequestRoute
+  params:
+    module: android
+    action: pedidosNotificacion
+  requirements: { sf_method: get }
+add_product:
+  url: /add_prod
+  params:  
+    module: crud
+    action: addProd 
+add_sub_product:
+  url: /add_sub
+  params:  
+    module: crud
+    action: addSubProd 
+list_productss:
+  url:  /list_products
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: listProduct
+prod_edit:
+  url:  /edit_prod
+  class:  sfRequestRoute
+  params:
+    module: crud
+    action: editProd
+edit_ingre:
+  url:  /edit_ingre
+  param:  { module: crud, action : editIngr }
+  requirements:
+     sf_method : [put]
+
+
+edit_prod:
+  url:  /prod_edit
+  param:  { module: crud, action : editProd }
+  requirements:
+     sf_method : [put]
+subprod_edit:
+  url:  /subprod_edit/:id
+  class: sfDoctrineRoute
+  options:
+    model: SubProducto
+    type: object
+  params:
+    module: crud
+    action: editSubProd
+edit_subprod:
+  url:  /subprod_edit
+  param:  { module: crud, action : editSubProd }
+  requirements:
+     sf_method : [put]
+list_subprod:
+  url:  /list_subprod
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: listSubProd
+facturas:
+  url:  /emit_factura
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: emitirFactura
+list_pedidos:
+  url:  /list_pedidos
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: listPedidos
+list_pagados:
+  url:  /list_pagados
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: listPagados
+prepare_factura:
+ url: /prepare_factura
+ class: sfRequestRoute
+ params:
+   module: crud
+   action: prepareFactura
+ requirements:
+     sf_method : [post]
+list_facturas:
+  url: /list_facturas
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: listFacturas
+get_details:
+  url: /android_get_details
+  class: sfRequestRoute
+  params:
+    module: android
+    action: getDetails
+  requirements: { sf_method: post }
+ver_pdf:
+  url: /ver_factura
+  class: sfRequestRoute
+  params:
+   module: crud
+   action: pruebaPdf
+  requirements:
+     sf_method : [get]
+prepare_factura_get:
+ url: /prepare_factura
+ class: sfRequestRoute
+ params:
+   module: crud
+   action: prepareFactura
+ requirements:
+     sf_method : [get]
+droid_send:
+  url:  /android_write
+  class: sfRequestRoute
+  params:
+    module: android
+    action: writeOrders
+item_remove:
+  url:  /item_delete
+  params:
+    module: crud
+    action: removeItem
+  requirements:
+      sf_method : [post]
+new_login:
+  url: /login_user
+  class: sfRequestRoute
+  params:
+    module: crud
+    actions: loginUser2
+  requirements: { sf_method: post }
+item_deleted:
+  url: /item_deleted
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: itemDelete
+item_updated:
+  url:  /item_updated
+  class: sfRequestRoute
+  params: 
+    module: crud
+    action: itemUpdated
+view_stats:
+  url: /stats
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: stats
+retrieve_pedidos_month:
+  url: /pedidos_month
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: retrievePedidosByMonth
+count_prod_month:
+  url: /sub_product_month
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: countProdMonth
+  requirements:
+    sf_method: [post]
+graph_month:
+  url:	/graph
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: monthRetrieve
+  requirements:
+    sf_method : [get]
+item_agregado:
+  url:  /item_added
+  class: sfRequestRoute
+  params: 
+    module: crud
+    action: itemAdded
+update_status:
+    url: /update_status
+    param: { module: crud, action: updateStatus }
+ingre_add:
+  url:  /add_ingre
+  class: sfDoctrineRoute
+  options:
+    model: Ingredientes
+    type: object
+  params:
+    module: crud
+    action: addIngrem
+ingrem_lista:
+  url:  /list_ingr
+  class: sfRequestRoute
+  params:
+    module: crud
+    action: listIngr
+ingre_list:
+  url:  /ingre
+  class: sfDoctrineRoute
+  options:
+    model: Ingredientes
+    type: object
+  params:
+    module: crud
+    action: listIngr
+ingre_edit:
+  url: /edit_ingre/:id
+  class: sfDoctrineRoute
+  options:
+    model: Ingredientes
+    type: object
+  params:
+    module: crud
+    action: editIngr
+  requirements:
+     sf_method : [get]
+pedido_detalle:
+  url: /pedido_detalle/:id
+  class: sfDoctrineRoute
+  options:
+    model: Pedidos
+    type: object
+  params:
+    module: crud
+    action: verDetallePedido
+ingre_add_new:
+  url:  /ingre_add
+  class: sfDoctrineRoute
+  options:
+    model: Ingredientes
+    type: object
+  params:
+    module: crud, 
+    action: addIngrem 
+  requirements:
+     sf_method : [post]
+addIm:
+  url:   /:module/:action/*
+  param: { module: crud, action: addIngrem }
+# generic rules
+# please, remove them by adding more specific rules
+
+editIng:
+  url:  /:module/:action/*
+  param:  { module: crud, action : editIngr }
+  requirements:
+     sf_method : [put]
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

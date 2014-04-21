@@ -1,0 +1,5 @@
+## YAML Template.
+---
+autoload:
+  mPDF:
+    path: %SF_LIB_DIR%/vendor/MPDF56

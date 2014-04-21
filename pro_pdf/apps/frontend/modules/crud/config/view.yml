@@ -1,0 +1,66 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+listProductSuccess:
+ layout: my_layout
+editIngrSuccess:
+  layout: my_layout
+deleteIngredienteSuccess:
+  layout: my_layout
+itemDeleteSuccess:
+  layout: my_layout
+editProdSuccess:
+  layout: my_layout
+cancelFacturaSuccess:
+  layout: my_layout
+listFacturasSuccess:
+  layout: my_layout
+addProdSuccess:
+  layout: my_layout
+addSubProdSuccess:
+  layout: my_layout
+verValidateJavaSuccess:
+  layout: false
+indexLogView:
+  layout: my_layout
+itemUpdatedSuccess:
+  layout: my_layout 
+itemAddedSuccess:
+  layout: my_layout
+listSubProdSuccess:
+  layout: my_layout
+addIngremSuccess:
+  has_layout: false
+statsSuccess:
+   has_layout: false
+listIngrSuccess:
+  has_layout: false
+listPedidosSuccess:
+  layout: my_layout
+listPagadosSuccess:
+  layout: my_layout
+prepareFacturaSuccess:
+  layout: my_layout
+indexSuccess:
+  layout: my_layout
+listIngrSuccess:
+  layout: my_layout
+editSubProdSuccess:
+  layout: my_layout
+addIngremSuccess:
+  layout: my_layout
+maquetadoFacturaSuccess:
+  layout: false
+newSuccess:
+  layout: my_layout
+  http_metas:
+    content-type: text/html
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+  stylesheets:    [imports.css]
+  javascripts:    [jquery-1.7.2.min.js,main.js,plugins.js,modernizr-2.0.6.min.js]
+ 

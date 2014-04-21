@@ -1,0 +1,2319 @@
+May 19 04:15:50 symfony [info] Info
+May 19 04:15:50 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+May 19 04:16:14 symfony [info] Info
+May 19 04:16:14 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+May 19 04:17:01 symfony [info] Info
+May 19 04:17:01 symfony [info] array (
+  'username' => 'kasm',
+  'userpass' => 'ada',
+)
+Aug 04 06:59:01 symfony [info] Info
+Aug 04 06:59:01 symfony [info] array (
+)
+Aug 04 07:03:31 symfony [info] Info
+Aug 04 07:03:31 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 07:30:28 symfony [info] Info
+Aug 04 07:30:28 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 07:34:40 symfony [info] Info
+Aug 04 07:34:40 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 07:38:39 symfony [info] Info
+Aug 04 07:38:39 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 07:39:26 symfony [info] Info
+Aug 04 07:39:26 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 07:41:10 symfony [info] Info
+Aug 04 07:41:10 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 22:42:56 symfony [info] Info
+Aug 04 22:42:56 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 22:43:53 symfony [info] Info
+Aug 04 22:43:53 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 22:44:16 symfony [info] Info
+Aug 04 22:44:16 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 04 22:45:31 symfony [info] Info
+Aug 04 22:45:31 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 04:32:39 symfony [info] Info
+Aug 08 04:32:39 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:23:52 symfony [info] Info
+Aug 08 05:23:52 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:27:08 symfony [info] Info
+Aug 08 05:27:08 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:27:46 symfony [info] Info
+Aug 08 05:27:46 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:33:28 symfony [info] Info
+Aug 08 05:33:28 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:40:07 symfony [info] Info
+Aug 08 05:40:07 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:42:45 symfony [info] Info
+Aug 08 05:42:45 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 08 05:50:34 symfony [info] Info
+Aug 08 05:50:34 symfony [info] array (
+  'username' => 'KIKETAL',
+  'userpass' => 'PARGUAY',
+)
+Aug 08 05:51:11 symfony [info] Info
+Aug 08 05:51:11 symfony [info] array (
+  'username' => 'Kiketal',
+  'userpass' => 'paraguay	',
+)
+Aug 08 05:51:48 symfony [info] Info
+Aug 08 05:51:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm	',
+)
+Aug 08 05:53:50 symfony [info] Info
+Aug 08 05:53:50 symfony [info] array (
+  'username' => 'kam',
+  'userpass' => 'mas	',
+)
+Aug 08 05:55:32 symfony [info] Info
+Aug 08 05:55:32 symfony [info] array (
+  'username' => 'man',
+  'userpass' => 'as	',
+)
+Aug 08 05:59:19 symfony [info] Info
+Aug 08 05:59:19 symfony [info] array (
+  'username' => 'man',
+  'userpass' => 'as',
+)
+Aug 09 02:25:52 symfony [info] Info
+Aug 09 02:25:52 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 09 02:31:34 symfony [info] Info
+Aug 09 02:31:34 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 09 02:32:42 symfony [info] Info
+Aug 09 02:32:42 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 09 03:11:08 symfony [info] Info
+Aug 09 03:11:08 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 09 03:13:35 symfony [info] Info
+Aug 09 03:13:35 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'parga',
+)
+Aug 09 03:15:24 symfony [info] Info
+Aug 09 03:15:24 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 09 03:16:33 symfony [info] Info
+Aug 09 03:16:33 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 10 05:11:03 symfony [info] Info
+Aug 10 05:11:03 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 10 05:22:39 symfony [info] Info
+Aug 10 05:22:39 symfony [info] array (
+  'username' => 'kiketal',
+  'userpass' => 'paraguay',
+)
+Aug 10 05:26:34 symfony [info] Info
+Aug 10 05:26:34 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n	',
+)
+Aug 10 05:32:45 symfony [info] Info
+Aug 10 05:32:45 symfony [info] array (
+  'username' => 'ma',
+  'userpass' => 'a',
+)
+Aug 10 05:33:05 symfony [info] Info
+Aug 10 05:33:05 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 10 05:37:42 symfony [info] Info
+Aug 10 05:37:42 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm	',
+)
+Aug 10 05:38:00 symfony [info] Info
+Aug 10 05:38:00 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm	',
+)
+Aug 10 05:39:32 symfony [info] Info
+Aug 10 05:39:32 symfony [info] array (
+  'username' => 'ma',
+  'userpass' => 'mn	',
+)
+Aug 10 05:40:41 symfony [info] Info
+Aug 10 05:40:41 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm		',
+)
+Aug 10 05:43:11 symfony [info] Info
+Aug 10 05:43:11 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n	',
+)
+Aug 10 05:44:15 symfony [info] Info
+Aug 10 05:44:15 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n	',
+)
+Aug 10 05:48:52 symfony [info] Info
+Aug 10 05:48:52 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'mn	',
+)
+Aug 10 05:50:00 symfony [info] Info
+Aug 10 05:50:00 symfony [info] array (
+  'username' => 'l',
+  'userpass' => 'l',
+)
+Aug 10 05:52:38 symfony [info] Info
+Aug 10 05:52:38 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 10 05:54:59 symfony [info] Info
+Aug 10 05:54:59 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 10 05:57:34 symfony [info] Info
+Aug 10 05:57:34 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 03:17:49 symfony [info] Info
+Aug 14 03:17:49 symfony [info] array (
+  'username' => 'ma',
+  'userpass' => 'na',
+)
+Aug 14 03:22:50 symfony [info] Info
+Aug 14 03:22:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 14 03:24:44 symfony [info] Info
+Aug 14 03:24:44 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:25:39 symfony [info] Info
+Aug 14 03:25:39 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"},{"idSubProducto":"24","producto":"Bebibdas","idMesa":"1","precio":"35000.00","subProducto":"Whiskey"},{"idSubProducto":"34","producto":"Pizza","idMesa":"1","precio":"300000.00","subProducto":"Pizza kiquetal"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:27:08 symfony [info] Info
+Aug 14 03:27:08 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"21","producto":"Ensaladas","idMesa":"1","precio":"12000.00","subProducto":"Mixta"},{"idSubProducto":"22","producto":"Ensaladas","idMesa":"1","precio":"20000.00","subProducto":"Las piedras"},{"idSubProducto":"32","producto":"Ensaladas","idMesa":"1","precio":"2000.00","subProducto":"alemana"},{"idSubProducto":"26","producto":"Postres","idMesa":"1","precio":"20000.00","subProducto":"Brownie"},{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:30:12 symfony [info] Info
+Aug 14 03:30:12 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"},{"idSubProducto":"24","producto":"Bebibdas","idMesa":"1","precio":"35000.00","subProducto":"Whiskey"},{"idSubProducto":"20","producto":"Picadas","idMesa":"1","precio":"20000.00","subProducto":"Mandioca Frita"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:30:12 symfony [info] 
+Aug 14 03:31:19 symfony [info] Info
+Aug 14 03:31:19 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:31:19 symfony [info] veamos
+Aug 14 03:31:55 symfony [info] Info
+Aug 14 03:31:55 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:31:55 symfony [info] veamos
+Aug 14 03:31:55 symfony [info] Array
+Aug 14 03:33:17 symfony [info] Info
+Aug 14 03:33:17 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'a',
+)
+Aug 14 03:33:26 symfony [info] Info
+Aug 14 03:33:26 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"},{"idSubProducto":"24","producto":"Bebibdas","idMesa":"1","precio":"35000.00","subProducto":"Whiskey"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:33:26 symfony [info] veamos
+Aug 14 03:33:26 symfony [info] 
+Aug 14 03:34:19 symfony [info] Info
+Aug 14 03:34:19 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 14 03:34:33 symfony [info] Info
+Aug 14 03:34:33 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:34:33 symfony [info] veamos
+Aug 14 03:35:19 symfony [info] Info
+Aug 14 03:35:19 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:35:19 symfony [info] veamos
+Aug 14 03:35:56 symfony [info] Info
+Aug 14 03:35:56 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:35:56 symfony [info] veamos
+Aug 14 03:36:13 symfony [info] Info
+Aug 14 03:36:13 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:36:13 symfony [info] veamos
+Aug 14 03:37:21 symfony [info] Info
+Aug 14 03:37:21 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:37:21 symfony [info] veamos
+Aug 14 03:37:57 symfony [info] Info
+Aug 14 03:37:57 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:37:57 symfony [info] veamos
+Aug 14 03:39:41 symfony [info] Info
+Aug 14 03:39:41 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 03:39:50 symfony [info] Info
+Aug 14 03:39:50 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:39:50 symfony [info] veamos
+Aug 14 03:39:50 symfony [info] Cerveza
+Aug 14 03:41:24 symfony [info] Info
+Aug 14 03:41:24 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"},{"idSubProducto":"21","producto":"Ensaladas","idMesa":"1","precio":"12000.00","subProducto":"Mixta"},{"idSubProducto":"16","producto":"Pizza","idMesa":"1","precio":"15000.00","subProducto":"Napolitana"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:41:24 symfony [info] veamos
+Aug 14 03:41:24 symfony [info] Cerveza
+Aug 14 03:42:16 symfony [info] Info
+Aug 14 03:42:16 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:42:16 symfony [info] veamos
+Aug 14 03:42:16 symfony [info] Cerveza
+Aug 14 03:42:40 symfony [info] Info
+Aug 14 03:42:40 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:42:40 symfony [info] veamos
+Aug 14 03:42:40 symfony [info] Cerveza
+Aug 14 03:50:46 symfony [info] Info
+Aug 14 03:50:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 14 03:51:50 symfony [info] Info
+Aug 14 03:51:50 symfony [info] array (
+  'pedido' => '[{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"},{"idSubProducto":"29","producto":"Bebibdas","idMesa":"1","precio":"100000.00","subProducto":"Cerveza"},{"idSubProducto":"24","producto":"Bebibdas","idMesa":"1","precio":"35000.00","subProducto":"Whiskey"}]',
+  'operacion' => 'pregunta',
+)
+Aug 14 03:51:50 symfony [info] veamos
+Aug 14 03:51:50 symfony [info] Cerveza
+Aug 14 05:11:43 symfony [info] Info
+Aug 14 05:11:43 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 19:33:48 symfony [info] Info
+Aug 14 19:33:48 symfony [info] array (
+  'username' => 'org.apache.http.conn.HttpHostConnectException: Connection to http://192.168.1.15:8080 refused',
+  'userpass' => 'kmi',
+)
+Aug 14 19:54:47 symfony [info] Info
+Aug 14 19:54:47 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 19:55:44 symfony [info] Info
+Aug 14 19:55:44 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 19:57:44 symfony [info] Info
+Aug 14 19:57:44 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 19:59:33 symfony [info] Info
+Aug 14 19:59:33 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 20:02:26 symfony [info] Info
+Aug 14 20:02:26 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 20:06:36 symfony [info] Info
+Aug 14 20:06:36 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 14 20:12:22 symfony [info] Info
+Aug 14 20:12:22 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 00:54:51 symfony [info] Info
+Aug 15 00:54:51 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 04:17:26 symfony [info] Info
+Aug 15 04:17:26 symfony [info] array (
+  'username' => '',
+  'userpass' => '',
+)
+Aug 15 04:36:54 symfony [info] Info
+Aug 15 04:36:54 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 04:38:28 symfony [info] Info
+Aug 15 04:38:28 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 04:46:40 symfony [info] Info
+Aug 15 04:46:40 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 04:52:56 symfony [info] Info
+Aug 15 04:52:56 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 04:54:28 symfony [info] Info
+Aug 15 04:54:28 symfony [info] array (
+  'username' => ',',
+  'userpass' => 'm',
+)
+Aug 15 05:04:27 symfony [info] Info
+Aug 15 05:04:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 05:10:06 symfony [info] Info
+Aug 15 05:10:06 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 05:14:41 symfony [info] Info
+Aug 15 05:14:41 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 15 17:35:04 symfony [info] Info
+Aug 15 17:35:04 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 15 17:35:39 symfony [info] Info
+Aug 15 17:35:39 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 15 17:37:40 symfony [info] Info
+Aug 15 17:37:40 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'nm',
+)
+Aug 15 17:38:39 symfony [info] Info
+Aug 15 17:38:39 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 15 17:54:17 symfony [info] Info
+Aug 15 17:54:17 symfony [info] array (
+  'username' => 'v',
+  'userpass' => 'd',
+)
+Aug 16 00:06:57 symfony [info] Info
+Aug 16 00:06:57 symfony [info] array (
+  'username' => '',
+  'userpass' => '',
+)
+Aug 16 02:00:18 symfony [info] Info
+Aug 16 02:00:18 symfony [info] array (
+  'username' => 'h',
+  'userpass' => 'n',
+)
+Aug 16 02:00:21 symfony [info] Info
+Aug 16 02:00:21 symfony [info] array (
+  'username' => 'h',
+  'userpass' => 'n',
+)
+Aug 16 02:45:56 symfony [info] Info
+Aug 16 02:45:56 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 02:47:51 symfony [info] Info
+Aug 16 02:47:51 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 02:50:21 symfony [info] Info
+Aug 16 02:50:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:25:15 symfony [info] Info
+Aug 16 03:25:15 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:28:08 symfony [info] Info
+Aug 16 03:28:08 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:30:33 symfony [info] Info
+Aug 16 03:30:33 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:34:02 symfony [info] Info
+Aug 16 03:34:02 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:37:48 symfony [info] Info
+Aug 16 03:37:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:39:59 symfony [info] Info
+Aug 16 03:39:59 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:41:51 symfony [info] Info
+Aug 16 03:41:51 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:42:44 symfony [info] Info
+Aug 16 03:42:44 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'nm',
+)
+Aug 16 03:43:55 symfony [info] Info
+Aug 16 03:43:55 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Aug 16 03:51:38 symfony [info] Info
+Aug 16 03:51:38 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:53:59 symfony [info] Info
+Aug 16 03:53:59 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:56:10 symfony [info] Info
+Aug 16 03:56:10 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:58:16 symfony [info] Info
+Aug 16 03:58:16 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 03:58:42 symfony [info] Info
+Aug 16 03:58:42 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:03:33 symfony [info] Info
+Aug 16 04:03:33 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:06:38 symfony [info] Info
+Aug 16 04:06:38 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:10:51 symfony [info] Info
+Aug 16 04:10:51 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:16:02 symfony [info] Info
+Aug 16 04:16:02 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:18:59 symfony [info] Info
+Aug 16 04:18:59 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:21:47 symfony [info] Info
+Aug 16 04:21:47 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:25:33 symfony [info] Info
+Aug 16 04:25:33 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:27:01 symfony [info] Info
+Aug 16 04:27:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm	',
+)
+Aug 16 04:29:01 symfony [info] Info
+Aug 16 04:29:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:31:52 symfony [info] Info
+Aug 16 04:31:52 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 04:37:09 symfony [info] Info
+Aug 16 04:37:09 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 05:23:08 symfony [info] Info
+Aug 16 05:23:08 symfony [info] array (
+)
+Aug 16 05:25:30 symfony [info] Info
+Aug 16 05:25:30 symfony [info] array (
+)
+Aug 16 05:28:31 symfony [info] Info
+Aug 16 05:28:31 symfony [info] array (
+)
+Aug 16 05:30:33 symfony [info] Info
+Aug 16 05:30:33 symfony [info] array (
+)
+Aug 16 05:32:39 symfony [info] Info
+Aug 16 05:32:39 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 05:40:01 symfony [info] Info
+Aug 16 05:40:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 05:47:46 symfony [info] Info
+Aug 16 05:47:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 05:50:53 symfony [info] Info
+Aug 16 05:50:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 05:58:47 symfony [info] Info
+Aug 16 05:58:47 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 06:02:14 symfony [info] Info
+Aug 16 06:02:14 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 16 06:05:32 symfony [info] Info
+Aug 16 06:05:32 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'an',
+)
+Aug 18 23:05:59 symfony [info] Info
+Aug 18 23:05:59 symfony [info] array (
+  'pedido_id' => 'a',
+)
+Aug 19 13:09:54 symfony [info] Info
+Aug 19 13:09:54 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 13:18:46 symfony [info] Info
+Aug 19 13:18:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 13:24:27 symfony [info] Info
+Aug 19 13:24:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 14:11:37 symfony [info] Info
+Aug 19 14:11:37 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 14:12:57 symfony [info] Info
+Aug 19 14:12:57 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 14:15:51 symfony [info] Info
+Aug 19 14:15:51 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 14:19:02 symfony [info] Info
+Aug 19 14:19:02 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 14:26:10 symfony [info] Info
+Aug 19 14:26:10 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 19 14:30:21 symfony [info] Info
+Aug 19 14:30:21 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'n',
+)
+Aug 20 02:31:53 symfony [info] Info
+Aug 20 02:31:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:33:15 symfony [info] Info
+Aug 20 02:33:15 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:35:06 symfony [info] Info
+Aug 20 02:35:06 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:35:35 symfony [info] Info
+Aug 20 02:35:35 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:38:50 symfony [info] Info
+Aug 20 02:38:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:42:50 symfony [info] Info
+Aug 20 02:42:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:44:02 symfony [info] Info
+Aug 20 02:44:02 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:46:58 symfony [info] Info
+Aug 20 02:46:58 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:48:09 symfony [info] Info
+Aug 20 02:48:09 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:49:00 symfony [info] Info
+Aug 20 02:49:00 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:49:39 symfony [info] Info
+Aug 20 02:49:39 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:50:10 symfony [info] Info
+Aug 20 02:50:10 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 02:53:46 symfony [info] Info
+Aug 20 02:53:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 03:27:46 symfony [info] Info
+Aug 20 03:27:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 03:28:49 symfony [info] Info
+Aug 20 03:28:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 03:31:13 symfony [info] Info
+Aug 20 03:31:13 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 03:44:50 symfony [info] Info
+Aug 20 03:44:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 03:46:43 symfony [info] Info
+Aug 20 03:46:43 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:06:07 symfony [info] Info
+Aug 20 04:06:07 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:13:22 symfony [info] Info
+Aug 20 04:13:22 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:14:17 symfony [info] Info
+Aug 20 04:14:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:16:14 symfony [info] Info
+Aug 20 04:16:14 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:19:25 symfony [info] Info
+Aug 20 04:19:25 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:20:54 symfony [info] Info
+Aug 20 04:20:54 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:22:08 symfony [info] Info
+Aug 20 04:22:08 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:27:44 symfony [info] Info
+Aug 20 04:27:44 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:35:21 symfony [info] Info
+Aug 20 04:35:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:36:57 symfony [info] Info
+Aug 20 04:36:57 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:42:49 symfony [info] Info
+Aug 20 04:42:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:45:45 symfony [info] Info
+Aug 20 04:45:45 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 04:57:22 symfony [info] Info
+Aug 20 04:57:22 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 05:07:56 symfony [info] Info
+Aug 20 05:07:56 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 05:10:17 symfony [info] Info
+Aug 20 05:10:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 05:11:42 symfony [info] Info
+Aug 20 05:11:42 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 05:12:27 symfony [info] Info
+Aug 20 05:12:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 05:13:50 symfony [info] Info
+Aug 20 05:13:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 05:16:37 symfony [info] Info
+Aug 20 05:16:37 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 13:36:12 symfony [info] Info
+Aug 20 13:36:12 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 13:37:24 symfony [info] Info
+Aug 20 13:37:24 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:05:01 symfony [info] Info
+Aug 20 14:05:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:06:43 symfony [info] Info
+Aug 20 14:06:43 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:07:34 symfony [info] Info
+Aug 20 14:07:34 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:09:19 symfony [info] Info
+Aug 20 14:09:19 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:10:30 symfony [info] Info
+Aug 20 14:10:30 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:12:09 symfony [info] Info
+Aug 20 14:12:09 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:12:43 symfony [info] Info
+Aug 20 14:12:43 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:13:27 symfony [info] Info
+Aug 20 14:13:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:15:27 symfony [info] Info
+Aug 20 14:15:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:18:41 symfony [info] Info
+Aug 20 14:18:41 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:22:01 symfony [info] Info
+Aug 20 14:22:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:23:48 symfony [info] Info
+Aug 20 14:23:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:24:58 symfony [info] Info
+Aug 20 14:24:58 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:26:52 symfony [info] Info
+Aug 20 14:26:52 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:31:15 symfony [info] Info
+Aug 20 14:31:15 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:32:45 symfony [info] Info
+Aug 20 14:32:45 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:38:53 symfony [info] Info
+Aug 20 14:38:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:43:12 symfony [info] Info
+Aug 20 14:43:12 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:48:21 symfony [info] Info
+Aug 20 14:48:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:55:55 symfony [info] Info
+Aug 20 14:55:55 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 14:58:31 symfony [info] Info
+Aug 20 14:58:31 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:04:35 symfony [info] Info
+Aug 20 15:04:35 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:07:15 symfony [info] Info
+Aug 20 15:07:15 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Aug 20 15:08:27 symfony [info] Info
+Aug 20 15:08:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:10:29 symfony [info] Info
+Aug 20 15:10:29 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:11:19 symfony [info] Info
+Aug 20 15:11:19 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:14:05 symfony [info] Info
+Aug 20 15:14:05 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:15:39 symfony [info] Info
+Aug 20 15:15:39 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:17:19 symfony [info] Info
+Aug 20 15:17:19 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:19:28 symfony [info] Info
+Aug 20 15:19:28 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:23:19 symfony [info] Info
+Aug 20 15:23:19 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:27:03 symfony [info] Info
+Aug 20 15:27:03 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:28:15 symfony [info] Info
+Aug 20 15:28:15 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:29:12 symfony [info] Info
+Aug 20 15:29:12 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:30:46 symfony [info] Info
+Aug 20 15:30:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:32:26 symfony [info] Info
+Aug 20 15:32:26 symfony [info] array (
+  'username' => ' m',
+  'userpass' => 'm',
+)
+Aug 20 15:33:45 symfony [info] Info
+Aug 20 15:33:45 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:41:14 symfony [info] Info
+Aug 20 15:41:14 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm	',
+)
+Aug 20 15:51:32 symfony [info] Info
+Aug 20 15:51:32 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 15:53:18 symfony [info] Info
+Aug 20 15:53:18 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Aug 20 16:08:43 symfony [info] Info
+Aug 20 16:08:43 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:09:08 symfony [info] Info
+Aug 20 16:09:08 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:11:07 symfony [info] Info
+Aug 20 16:11:07 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Aug 20 16:11:55 symfony [info] Info
+Aug 20 16:11:55 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Aug 20 16:13:03 symfony [info] Info
+Aug 20 16:13:03 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:13:16 symfony [info] Info
+Aug 20 16:13:16 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:14:40 symfony [info] Info
+Aug 20 16:14:40 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:17:27 symfony [info] Info
+Aug 20 16:17:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:19:01 symfony [info] Info
+Aug 20 16:19:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:21:08 symfony [info] Info
+Aug 20 16:21:08 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Aug 20 16:25:17 symfony [info] Info
+Aug 20 16:25:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:29:30 symfony [info] Info
+Aug 20 16:29:30 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:31:13 symfony [info] Info
+Aug 20 16:31:13 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:35:21 symfony [info] Info
+Aug 20 16:35:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:37:27 symfony [info] Info
+Aug 20 16:37:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:38:03 symfony [info] Info
+Aug 20 16:38:03 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:40:06 symfony [info] Info
+Aug 20 16:40:06 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:41:07 symfony [info] Info
+Aug 20 16:41:07 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:41:51 symfony [info] Info
+Aug 20 16:41:51 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 20 16:44:18 symfony [info] Info
+Aug 20 16:44:18 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Aug 25 03:11:34 symfony [info] Info
+Aug 25 03:11:41 symfony [info] Info
+Aug 25 03:12:36 symfony [info] Info
+Aug 25 03:13:22 symfony [info] Info
+Aug 25 03:13:44 symfony [info] asdasd
+Aug 25 03:19:05 symfony [info] asdasd
+Aug 25 03:19:05 symfony [info] asa
+Aug 25 03:20:26 symfony [info] asdasd
+Aug 25 03:20:26 symfony [info] asa
+Aug 25 03:20:45 symfony [info] asdasd
+Aug 25 03:20:45 symfony [info] 
+Aug 25 03:21:52 symfony [info] asdasd
+Aug 25 03:21:52 symfony [info] 
+Aug 25 03:21:52 symfony [info] 
+Aug 25 03:22:13 symfony [info] asdasd
+Aug 25 03:22:13 symfony [info] 
+Aug 25 03:22:13 symfony [info] 
+Aug 25 03:22:36 symfony [info] asdasd
+Aug 25 03:22:36 symfony [info] 
+Aug 25 03:22:36 symfony [info] 1
+Aug 25 03:23:30 symfony [info] asdasd
+Aug 25 03:23:30 symfony [info] 
+Aug 25 03:24:06 symfony [info] asdasd
+Aug 25 03:29:11 symfony [info] asdasd
+Aug 25 03:29:11 symfony [info] 23
+Aug 25 03:31:49 symfony [info] asdasd
+Aug 25 03:32:02 symfony [info] asdasd
+Aug 25 03:33:00 symfony [info] asdasd
+Aug 25 03:33:00 symfony [info] 23
+Aug 25 03:36:39 symfony [info] asdasd
+Aug 25 03:36:39 symfony [info] 24
+Aug 25 03:37:04 symfony [info] asdasd
+Aug 25 03:37:04 symfony [info] 24
+Aug 25 03:38:50 symfony [info] asdasd
+Aug 25 03:38:50 symfony [info] NULL
+Aug 25 03:38:50 symfony [info] 
+Aug 25 03:38:50 symfony [info] 24
+Aug 25 03:41:42 symfony [info] asdasd
+Aug 25 03:41:42 symfony [info] 24
+Aug 25 03:42:44 symfony [info] asdasd
+Aug 25 03:42:44 symfony [info] 32
+Aug 25 03:43:30 symfony [info] asdasd
+Aug 25 03:43:30 symfony [info] '4545'
+Aug 25 03:43:51 symfony [info] asdasd
+Aug 25 03:43:51 symfony [info] '12'
+Aug 25 03:44:35 symfony [info] asdasd
+Aug 25 03:44:35 symfony [info] 43
+Aug 25 03:45:45 symfony [info] asdasd
+Aug 25 03:45:45 symfony [info] 43
+Aug 25 03:45:49 symfony [info] asdasd
+Aug 25 03:45:49 symfony [info] 56
+Aug 25 03:46:34 symfony [info] asdasd
+Aug 25 03:46:34 symfony [info] 76
+Aug 25 03:46:48 symfony [info] asdasd
+Aug 25 03:46:48 symfony [info] 76
+Aug 25 03:47:54 symfony [info] asdasd
+Aug 25 03:47:54 symfony [info] 77
+Aug 25 03:48:22 symfony [info] asdasd
+Aug 25 03:48:22 symfony [info] 79
+Aug 25 07:05:59 symfony [info] asdasd
+Aug 25 07:05:59 symfony [info] 12
+Aug 25 07:38:29 symfony [info] asdasd
+Aug 25 07:38:29 symfony [info] 31
+Aug 25 07:40:35 symfony [info] asdasd
+Aug 25 07:40:35 symfony [info] 11
+Aug 25 07:41:25 symfony [info] asdasd
+Aug 25 07:41:25 symfony [info] 11
+Aug 25 07:41:38 symfony [info] asdasd
+Aug 25 07:41:38 symfony [info] 11
+Aug 25 07:42:12 symfony [info] asdasd
+Aug 25 07:42:12 symfony [info] 11
+Aug 25 07:42:37 symfony [info] asdasd
+Aug 25 07:42:37 symfony [info] 11
+Aug 25 07:43:40 symfony [info] asdasd
+Aug 25 07:43:40 symfony [info] 11
+Aug 25 07:44:05 symfony [info] asdasd
+Aug 25 07:44:05 symfony [info] 11
+Aug 25 07:46:14 symfony [info] asdasd
+Aug 25 07:46:14 symfony [info] 23
+Aug 29 05:56:55 symfony [info] Info
+Aug 29 05:56:55 symfony [info] array (
+  'producto_name' => 'Milanesas ',
+  'producto' => 
+  array (
+    'image' => '',
+  ),
+  'producto_id' => '16',
+)
+Sep 02 03:06:28 symfony [info] Info
+Sep 02 03:06:28 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Sep 02 03:14:54 symfony [info] Info
+Sep 02 03:14:54 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Sep 02 03:17:40 symfony [info] Info
+Sep 02 03:17:40 symfony [info] array (
+  'username' => 'M',
+  'userpass' => 'M',
+)
+Sep 02 03:21:02 symfony [info] Info
+Sep 02 03:21:02 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 02 03:23:11 symfony [info] Info
+Sep 02 03:23:11 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 02 03:39:23 symfony [info] Info
+Sep 02 03:39:23 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 02 03:40:10 symfony [info] Info
+Sep 02 03:40:10 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 02 03:42:35 symfony [info] Info
+Sep 02 03:42:35 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 02 03:58:02 symfony [info] Info
+Sep 02 03:58:02 symfony [info] array (
+  'username' => 'mm',
+  'userpass' => '',
+)
+Sep 02 05:46:18 symfony [info] Info
+Sep 02 05:46:18 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:41:17 symfony [info] Info
+Sep 09 03:41:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:42:25 symfony [info] Info
+Sep 09 03:42:25 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'm',
+)
+Sep 09 03:44:27 symfony [info] Info
+Sep 09 03:44:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:45:32 symfony [info] Info
+Sep 09 03:45:32 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:46:25 symfony [info] Info
+Sep 09 03:46:25 symfony [info] array (
+  'username' => ',',
+  'userpass' => ',',
+)
+Sep 09 03:47:58 symfony [info] Info
+Sep 09 03:47:58 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:49:33 symfony [info] Info
+Sep 09 03:49:33 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:50:48 symfony [info] Info
+Sep 09 03:50:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:52:37 symfony [info] Info
+Sep 09 03:52:37 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:53:50 symfony [info] Info
+Sep 09 03:53:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:56:23 symfony [info] Info
+Sep 09 03:56:23 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 03:57:53 symfony [info] Info
+Sep 09 03:57:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:01:17 symfony [info] Info
+Sep 09 04:01:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:03:25 symfony [info] Info
+Sep 09 04:03:25 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'n',
+)
+Sep 09 04:07:05 symfony [info] Info
+Sep 09 04:07:05 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:09:24 symfony [info] Info
+Sep 09 04:09:24 symfony [info] array (
+  'username' => 'm',
+  'userpass' => ' m',
+)
+Sep 09 04:12:17 symfony [info] Info
+Sep 09 04:12:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:13:53 symfony [info] Info
+Sep 09 04:13:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:15:08 symfony [info] Info
+Sep 09 04:15:08 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:16:07 symfony [info] Info
+Sep 09 04:16:07 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:18:18 symfony [info] Info
+Sep 09 04:18:18 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:22:06 symfony [info] Info
+Sep 09 04:22:06 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:23:55 symfony [info] Info
+Sep 09 04:23:55 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:29:36 symfony [info] Info
+Sep 09 04:29:36 symfony [info] array (
+  'username' => 'g',
+  'userpass' => 'f',
+)
+Sep 09 04:35:33 symfony [info] Info
+Sep 09 04:35:33 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:38:14 symfony [info] Info
+Sep 09 04:38:14 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:38:48 symfony [info] Info
+Sep 09 04:38:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:39:39 symfony [info] Info
+Sep 09 04:39:39 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:41:00 symfony [info] Info
+Sep 09 04:41:00 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:41:52 symfony [info] Info
+Sep 09 04:41:52 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:42:53 symfony [info] Info
+Sep 09 04:42:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:48:42 symfony [info] Info
+Sep 09 04:48:42 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 04:59:01 symfony [info] Info
+Sep 09 04:59:01 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 09 05:02:07 symfony [info] Info
+Sep 09 05:02:07 symfony [info] array (
+  'username' => 'v',
+  'userpass' => 'g',
+)
+Sep 10 04:52:49 symfony [info] Info
+Sep 10 04:52:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 10 04:58:55 symfony [info] Info
+Sep 10 04:58:55 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 10 05:06:31 symfony [info] Info
+Sep 10 05:06:31 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 10 05:07:16 symfony [info] Info
+Sep 10 05:07:16 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 10 05:09:38 symfony [info] Info
+Sep 10 05:09:38 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 10 05:13:21 symfony [info] Info
+Sep 10 05:13:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 10 05:14:25 symfony [info] Info
+Sep 10 05:14:25 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 05:00:21 symfony [info] Info
+Sep 19 05:00:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 05:50:46 symfony [info] Info
+Sep 19 05:50:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 06:03:31 symfony [info] Info
+Sep 19 06:03:31 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 06:06:18 symfony [info] Info
+Sep 19 06:06:18 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 06:08:35 symfony [info] Info
+Sep 19 06:08:35 symfony [info] array (
+  'username' => ',',
+  'userpass' => 'm',
+)
+Sep 19 06:11:13 symfony [info] Info
+Sep 19 06:11:13 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 06:12:20 symfony [info] Info
+Sep 19 06:12:20 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 19 06:13:47 symfony [info] Info
+Sep 19 06:13:47 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'b',
+)
+Sep 24 01:27:24 symfony [info] Info
+Sep 24 01:27:24 symfony [info] array (
+  'username' => 'adasd',
+  'userpass' => 'adsadas',
+)
+Sep 24 01:34:04 symfony [info] Info
+Sep 24 01:34:04 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 24 19:27:22 symfony [info] Info
+Sep 24 19:27:22 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Sep 24 19:29:43 symfony [info] Info
+Sep 24 19:29:43 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Sep 24 19:32:49 symfony [info] Info
+Sep 24 19:32:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 17 12:55:02 symfony [info] Info
+Oct 17 12:55:02 symfony [info] array (
+  'username' => 'h',
+  'userpass' => 'v',
+)
+Oct 17 13:07:50 symfony [info] Info
+Oct 17 13:07:50 symfony [info] array (
+  'username' => 'v',
+  'userpass' => 'v',
+)
+Oct 17 13:07:52 symfony [info] Info
+Oct 17 13:07:52 symfony [info] array (
+  'username' => 'v',
+  'userpass' => 'v',
+)
+Oct 17 15:42:17 symfony [info] Info
+Oct 17 15:42:17 symfony [info] array (
+  'username' => 'g',
+  'userpass' => 'f',
+)
+Oct 17 15:47:35 symfony [info] Info
+Oct 17 15:47:35 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 17 19:24:14 symfony [info] Info
+Oct 17 19:24:14 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 17 19:28:02 symfony [info] Info
+Oct 17 19:28:02 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 17 19:29:05 symfony [info] Info
+Oct 17 19:29:05 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 17 19:35:35 symfony [info] Info
+Oct 17 19:35:35 symfony [info] array (
+  'username' => 'nm',
+  'userpass' => 'as',
+)
+Oct 17 20:37:05 symfony [info] Info
+Oct 17 20:37:05 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 17 20:54:44 symfony [info] Info
+Oct 17 20:54:44 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Oct 25 03:04:15 symfony [info] Info
+Oct 25 03:04:15 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:30:36 symfony [info] Info
+Nov 03 22:30:36 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:35:32 symfony [info] Info
+Nov 03 22:35:32 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:37:04 symfony [info] Info
+Nov 03 22:37:04 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'mn',
+)
+Nov 03 22:42:53 symfony [info] Info
+Nov 03 22:42:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:45:49 symfony [info] Info
+Nov 03 22:45:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:49:58 symfony [info] Info
+Nov 03 22:49:58 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:50:56 symfony [info] Info
+Nov 03 22:50:56 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:52:48 symfony [info] Info
+Nov 03 22:52:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 22:54:54 symfony [info] Info
+Nov 03 22:54:54 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:08:45 symfony [info] Info
+Nov 03 23:08:45 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:11:08 symfony [info] Info
+Nov 03 23:11:08 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:11:50 symfony [info] Info
+Nov 03 23:11:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:12:21 symfony [info] Info
+Nov 03 23:12:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:12:53 symfony [info] Info
+Nov 03 23:12:53 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:20:40 symfony [info] Info
+Nov 03 23:20:40 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:26:59 symfony [info] Info
+Nov 03 23:26:59 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 03 23:45:47 symfony [info] Info
+Nov 03 23:45:47 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 11:37:18 symfony [info] Info
+Nov 08 11:37:18 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'n',
+)
+Nov 08 14:05:32 symfony [info] Info
+Nov 08 14:05:32 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 17:11:46 symfony [info] Info
+Nov 08 17:11:46 symfony [info] array (
+  'username' => 'ki',
+  'userpass' => 'ma',
+)
+Nov 08 17:18:31 symfony [info] Info
+Nov 08 17:18:31 symfony [info] array (
+  'username' => 'am',
+  'userpass' => 'as',
+)
+Nov 08 17:36:21 symfony [info] Info
+Nov 08 17:36:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 17:56:49 symfony [info] Info
+Nov 08 17:56:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 18:03:50 symfony [info] Info
+Nov 08 18:03:50 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'a',
+)
+Nov 08 19:59:07 symfony [info] Info
+Nov 08 19:59:07 symfony [info] array (
+  'username' => 'mm',
+  'userpass' => 'mn',
+)
+Nov 08 20:00:21 symfony [info] Info
+Nov 08 20:00:21 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:02:12 symfony [info] Info
+Nov 08 23:02:12 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'm',
+)
+Nov 08 23:03:42 symfony [info] Info
+Nov 08 23:03:42 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:05:49 symfony [info] Info
+Nov 08 23:05:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:08:46 symfony [info] Info
+Nov 08 23:08:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:11:50 symfony [info] Info
+Nov 08 23:11:50 symfony [info] array (
+  'username' => '231',
+  'userpass' => 'cxzc',
+)
+Nov 08 23:15:27 symfony [info] Info
+Nov 08 23:15:27 symfony [info] array (
+  'username' => 'n',
+  'userpass' => 'm',
+)
+Nov 08 23:18:03 symfony [info] Info
+Nov 08 23:18:03 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:18:50 symfony [info] Info
+Nov 08 23:18:50 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:21:54 symfony [info] Info
+Nov 08 23:21:54 symfony [info] array (
+  'username' => 'mm',
+  'userpass' => 'm',
+)
+Nov 08 23:23:46 symfony [info] Info
+Nov 08 23:23:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 08 23:31:17 symfony [info] Info
+Nov 08 23:31:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 01:53:45 symfony [info] Info
+Nov 13 01:53:45 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:00:37 symfony [info] Info
+Nov 13 13:00:37 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:20:17 symfony [info] Info
+Nov 13 13:20:17 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:22:34 symfony [info] Info
+Nov 13 13:22:34 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:26:49 symfony [info] Info
+Nov 13 13:26:49 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:29:09 symfony [info] Info
+Nov 13 13:29:09 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:34:25 symfony [info] Info
+Nov 13 13:34:25 symfony [info] array (
+  'username' => 'mm',
+  'userpass' => 'a',
+)
+Nov 13 13:34:59 symfony [info] Info
+Nov 13 13:34:59 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:35:27 symfony [info] Info
+Nov 13 13:35:27 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:35:48 symfony [info] Info
+Nov 13 13:35:48 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:39:46 symfony [info] Info
+Nov 13 13:39:46 symfony [info] array (
+  'username' => 'm',
+  'userpass' => 'm',
+)
+Nov 13 13:41:15 symfony [info] Info
+Nov 13 13:41:15 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'mn',
+)
+Nov 21 21:45:32 symfony [info] Info
+Nov 21 21:45:32 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:43:16 symfony [info] Info
+Nov 21 22:43:16 symfony [info] array (
+  'username' => 'java.net.SocketException: No route to host',
+  'userpass' => 'admin',
+)
+Nov 21 22:50:56 symfony [info] Info
+Nov 21 22:50:56 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:53:39 symfony [info] Info
+Nov 21 22:53:39 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:56:55 symfony [info] Info
+Nov 21 22:56:55 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:59:12 symfony [info] Info
+Nov 21 22:59:12 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 23:09:01 symfony [info] Info
+Nov 21 23:09:01 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 23:29:42 symfony [info] Info
+Nov 21 23:29:42 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 23:30:44 symfony [info] Info
+Nov 21 23:30:44 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 23:32:08 symfony [info] Info
+Nov 21 23:32:08 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 20:39:15 symfony [info] Info
+Nov 21 20:39:15 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 20:41:24 symfony [info] Info
+Nov 21 20:41:24 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 20:44:19 symfony [info] Info
+Nov 21 20:44:19 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin	',
+)
+Nov 21 20:47:09 symfony [info] Info
+Nov 21 20:47:09 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 21:32:13 symfony [info] Info
+Nov 21 21:32:13 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:06:02 symfony [info] Info
+Nov 21 22:06:02 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:07:46 symfony [info] Info
+Nov 21 22:07:46 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:08:54 symfony [info] Info
+Nov 21 22:08:54 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:11:07 symfony [info] Info
+Nov 21 22:11:07 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:13:25 symfony [info] Info
+Nov 21 22:13:25 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:16:32 symfony [info] Info
+Nov 21 22:16:32 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin	',
+)
+Nov 21 22:19:49 symfony [info] Info
+Nov 21 22:19:49 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:22:22 symfony [info] Info
+Nov 21 22:22:22 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:25:40 symfony [info] Info
+Nov 21 22:25:40 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 21 22:30:44 symfony [info] Info
+Nov 21 22:30:44 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 23 17:30:44 symfony [info] Info
+Nov 23 17:30:44 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 23 17:31:08 symfony [info] Info
+Nov 23 17:31:08 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 23 17:38:07 symfony [info] Info
+Nov 23 17:38:07 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'ads',
+)
+Nov 23 17:38:27 symfony [info] Info
+Nov 23 17:38:27 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 23 17:44:26 symfony [info] Info
+Nov 23 17:44:26 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:13:29 symfony [info] Info
+Nov 24 02:13:29 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:17:55 symfony [info] Info
+Nov 24 02:17:55 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'mand',
+)
+Nov 24 02:18:11 symfony [info] Info
+Nov 24 02:18:11 symfony [info] array (
+  'username' => 'mn',
+  'userpass' => 'mnas',
+)
+Nov 24 02:19:35 symfony [info] Info
+Nov 24 02:19:35 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'man',
+)
+Nov 24 02:19:40 symfony [info] Info
+Nov 24 02:19:40 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:19:47 symfony [info] Info
+Nov 24 02:19:47 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:20:09 symfony [info] Info
+Nov 24 02:20:09 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:20:41 symfony [info] Info
+Nov 24 02:20:41 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:21:02 symfony [info] Info
+Nov 24 02:21:02 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 02:31:26 symfony [info] Info
+Nov 24 02:31:26 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 04:38:57 symfony [info] Info
+Nov 24 04:38:57 symfony [info] array (
+  'username' => 'asd',
+  'userpass' => 'asd',
+)
+Nov 24 04:39:00 symfony [info] Info
+Nov 24 04:39:00 symfony [info] array (
+  'username' => 'asd',
+  'userpass' => 'admin',
+)
+Nov 24 04:39:04 symfony [info] Info
+Nov 24 04:39:04 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 04:41:30 symfony [info] Info
+Nov 24 04:41:30 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 04:42:03 symfony [info] Info
+Nov 24 04:42:03 symfony [info] array (
+  'username' => 'a',
+  'userpass' => '',
+)
+Nov 24 04:42:05 symfony [info] Info
+Nov 24 04:42:05 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 04:46:17 symfony [info] Info
+Nov 24 04:46:17 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 05:38:51 symfony [info] Info
+Nov 24 05:38:51 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 18:39:55 symfony [info] Info
+Nov 24 18:39:55 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 19:28:38 symfony [info] Info
+Nov 24 19:28:39 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 19:36:35 symfony [info] Info
+Nov 24 19:36:35 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin	',
+)
+Nov 24 19:36:35 symfony [info] Info
+Nov 24 19:36:35 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin	',
+)
+Nov 24 19:36:40 symfony [info] Info
+Nov 24 19:36:40 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 19:37:19 symfony [info] Info
+Nov 24 19:37:19 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 19:38:41 symfony [info] Info
+Nov 24 19:38:41 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 24 21:01:07 symfony [info] Info
+Nov 24 21:01:07 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 28 23:36:41 symfony [info] Info
+Nov 28 23:36:41 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 28 23:37:29 symfony [info] Info
+Nov 28 23:37:29 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 28 23:45:00 symfony [info] Info
+Nov 28 23:45:00 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 28 23:47:16 symfony [info] Info
+Nov 28 23:47:16 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 28 23:48:38 symfony [info] Info
+Nov 28 23:48:38 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 28 23:49:28 symfony [info] Info
+Nov 28 23:49:28 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 00:20:30 symfony [info] Info
+Nov 29 00:20:30 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 00:23:48 symfony [info] Info
+Nov 29 00:23:48 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admim',
+)
+Nov 29 00:23:54 symfony [info] Info
+Nov 29 00:23:54 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 18:26:26 symfony [info] Info
+Nov 29 18:26:26 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 18:26:27 symfony [info] Info
+Nov 29 18:26:27 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 18:46:27 symfony [info] Info
+Nov 29 18:46:27 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 21:55:51 symfony [info] Info
+Nov 29 21:55:51 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
+Nov 29 23:22:08 symfony [info] Info
+Nov 29 23:22:08 symfony [info] array (
+  'username' => 'admin',
+  'userpass' => 'admin',
+)
